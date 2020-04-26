@@ -1,3 +1,22 @@
+# Reproducible Research: Peer Assessment 1
+#### Shovit Bhari
+
+
+Following files and folders were submitted for this Project
+
+Files
+
+* PA1_template.Rmd
+* PA1_template.md
+* PA1_template.html
+
+Folders
+* data: contains data for the project
+* figure: figures generated for the project
+
+Indroduction and instructon included in the README.md file from the original repo is listed below. 
+
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
