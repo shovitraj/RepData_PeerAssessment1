@@ -1,7 +1,7 @@
 
 
 ---
-title: "Reproducible Research: Project 1"
+title: "Reproducible Research: Peer Assessment 1"
 author: "Shovit Bhari"
 date: 2020-04-26
 output: html_document
@@ -26,23 +26,6 @@ unzip(zipfile = "./data/activity.zip", exdir = "./data")
 ```r
 library(ggplot2)
 library(dplyr)
-```
-
-```
-## 
-## Attaching package: 'dplyr'
-```
-
-```
-## The following objects are masked from 'package:stats':
-## 
-##     filter, lag
-```
-
-```
-## The following objects are masked from 'package:base':
-## 
-##     intersect, setdiff, setequal, union
 ```
 
 
