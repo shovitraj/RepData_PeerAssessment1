@@ -65,7 +65,7 @@ g+geom_histogram(boundary=2, binwidth=2200,
 ## Warning: Removed 8 rows containing non-finite values (stat_bin).
 ```
 
-![plot of chunk histogram1](figure/histogram1-1.png)
+![plot of chunk plot1](figure/plot1-1.png)
 
 
 2.3. Calculate and report the mean and median of the total number of steps taken per day
@@ -111,7 +111,7 @@ g+geom_line(col="red")+
         theme(plot.title = element_text(color = "blue", size = 14, face = "bold", hjust=0.5))
 ```
 
-![plot of chunk average steps interval](figure/average steps interval-1.png)
+![plot of chunk plot2](figure/plot2-1.png)
 
 3.2. Which 5-minute interval, on average across all the days in the dataset, contains the maximum number of steps?
 
@@ -181,7 +181,7 @@ g+geom_histogram(boundary=2, binwidth=2200,
         theme(plot.title = element_text(color = "blue", size = 14, face = "bold", hjust=0.5))
 ```
 
-![plot of chunk total steps imputed](figure/total steps imputed-1.png)
+![plot of chunk plot3](figure/plot3-1.png)
 
 ### 5. Are there differences in activity patterns between weekdays and weekends?
 
@@ -216,4 +216,4 @@ g+ geom_line()+
               plot.title = element_text(color = "blue", size = 14, face = "bold", hjust=0.5)) 
 ```
 
-![plot of chunk finalplot](figure/finalplot-1.png)
+![plot of chunk plot4](figure/plot4-1.png)
